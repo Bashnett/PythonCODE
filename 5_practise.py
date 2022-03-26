@@ -6,6 +6,7 @@ NepDict= {
         "Mewa" : "It is Papaya in Nepali",
         "Golbheda" : {
             "rato" : "Kalo"}
+        "Gulo" : "Dick"
         }
 print(NepDict["Kera"])
 print(NepDict["Golbheda"]["rato"])
